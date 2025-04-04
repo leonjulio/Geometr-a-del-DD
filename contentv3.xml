@@ -195,8 +195,8 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/mdd_2_orig.gif&quot; width=&quot;439&quot; height=&quot;423&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;El disco duro es el principal dispositivo de almacenamiento secundario, y utiliza la tecnología de almacenamiento magnético. Son dispositivos muy complejos, pero al mismo tiempo muy resistentes. Formados por varios discos metálicos colocados de manera concéntrica, de tal forma que tienen el mismo eje y todos giran a la vez. Estos discos son llamados platos, y en sus dos caras están las partículas magnéticas que polarizábamos para almacenar un ‘1’ o un ‘0’ (tecnología de almacenamiento magnético).&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El disco duro es el principal dispositivo de almacenamiento secundario, y utiliza la tecnología de almacenamiento magnético. Son dispositivos muy complejos, pero al mismo tiempo muy resistentes. Formados por varios discos metálicos colocados de manera concéntrica, de tal forma que tienen el mismo eje y todos giran a la vez. Estos discos son llamados platos, y en sus dos caras están las partículas magnéticas que polarizábamos para almacenar un ‘1’ o un ‘0’ (tecnología de almacenamiento magnético).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/mdd_2_orig.gif&quot; width=&quot;439&quot; height=&quot;423&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Si recordamos un poco del almacenamiento magnético, para polarizar las partículas magnéticas usábamos un cabezal de escritura y para leer la polarización que tiene la partícula, un cabezal de lectura. Ambos cabezales había que situarlos en frente de la partícula con la que trabajamos, y para este propósito, el disco duro cuenta con brazos en cuyo extremos se encuentran los cabezales.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Finalmente, todos estos componentes están montados sobre una placa con la electrónica necesaria para controlar el movimiento coordinado de todos ellos, y de esta forma poder escribir o leer datos del disco.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6100,7 +6100,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="9"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
